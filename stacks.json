@@ -1,0 +1,17 @@
+[
+	{
+		"title": "2001: A Space Odyssey",
+		"author": "Arthur C. Clarke",
+		"genre": "Science Fiction"
+	},
+	{
+		"title": "Catcher in the Rye",
+		"author": "J. D. Salinger",
+		"genre": "Classic"
+	},
+	{
+		"title": "The Immortal Life of Henrietta Lacks",
+		"author": "Rebecca Skloot",
+		"genre": "Non-Fiction"
+	}
+]
